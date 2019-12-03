@@ -2,7 +2,7 @@
 
 這是一個使用line-bot遠端控制電腦的code(client)
 
----
+
 
 ### **使用方法**
 
@@ -21,4 +21,4 @@ password = '密碼'
 python 03.py
 ```
 6.如果還沒架設line伺服端，右轉到這~~
-https://github.com/luisbvcc1/Pc-Remote-Controller-client
+https://github.com/luisbvcc1/pc-controller-server
